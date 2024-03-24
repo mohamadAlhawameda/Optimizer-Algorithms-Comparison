@@ -1,0 +1,1 @@
+MNIST Optimizer Comparison: Utilized a machine learning model on the MNIST dataset to assess the efficacy of Adam, AdaDelta, and RMSprop optimization algorithms. Investigated their performance characteristics, advantages, and limitations to enhance optimization strategies for image classification tasks.
